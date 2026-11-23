@@ -192,7 +192,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Clair Obscur: Expedition 33 · Updated 2026-11-22 · Shared under the MIT License*
+*Clair Obscur: Expedition 33 · Updated 2026-11-23 · Shared under the MIT License*
 
 
-Updated 2026-11-22.
+Updated 2026-11-23.
